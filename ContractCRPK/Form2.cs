@@ -16,7 +16,7 @@ namespace ContractCRPK
 {
     public partial class Form2 : Form
     {
-        private readonly string TemplateFileName = Directory.GetCurrentDirectory() + @"\Documents\test.docx";
+        private readonly string TemplateFileName = Directory.GetCurrentDirectory() + @"\test.docx";
         public Form2()
         {
             InitializeComponent();
